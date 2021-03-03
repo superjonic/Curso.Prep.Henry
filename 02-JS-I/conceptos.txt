@@ -1,0 +1,13 @@
+DEFINICIONES
+
+Variables: es una forma de almacenar algo, una manera de guardar una cosa para luego poder utilizarla
+
+Strings: es un tipo de variable que guarda texto, lineas de texto unicamente. 
+
+Funciones (argumentos, return): las funciones son expresiones que le da una serie de instrucciones al interprete que este tiene que realizar
+Poseen sus argumentos, es decir variables que son utilizadas en la expresion y luego van a ser invocadas con la funcion. Las funciones siempre devuelven un resultado
+Este se expresa con "return".
+
+Declaraciones If: es una palabra que nos sirve para decirle al interprete que la funcion tiene una condicion previa a una ejecucion o una accion, 
+
+Valores Booleanos: es un tipo de variable pero con solo dos opciones posibles, true y false. 
