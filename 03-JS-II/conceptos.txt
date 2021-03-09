@@ -1,0 +1,9 @@
+DEFINICIONES
+
+For: sirve para procesos repetitivos, o sea un bucle continuo. hasta que devuelve lo que estamos buscando o se ajusta a determinada condicion
+
+&&: operador logico simbolo para denominar la expresion "AND" - "Y" 
+
+!: operador logico simbolo que representa "no" "NOT"
+
+||: operador logico, simbolo que representa "O" "OR"
